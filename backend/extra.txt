@@ -1,0 +1,17 @@
+"_moduleAliases": {
+    "@/resources/*": [
+      "dist/resources/*"
+    ],
+    "@/middlewares/*": [
+      "dist/middlewares/*"
+    ],
+    "@/utils/*": [
+      "dist/utils/*"
+    ],
+    "@/config/*": [
+      "dist/config/*"
+    ],
+    "@/services/*": [
+      "dist/services/*"
+    ]
+  }
